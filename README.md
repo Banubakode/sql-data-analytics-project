@@ -74,10 +74,8 @@ This project follows a structured analytics pipeline:
 
 # 🛠️ Tech Stack  
 
-- **SQL** – Data extraction & transformation  
-- **Python** – Data analysis & processing  
-- **Power BI / Tableau / Excel** – Visualization & reporting  
-- **Data Warehousing Concepts** – Structured data modeling  
+- **MS SQL Server** – Data exploration, analysis, and reporting 
+
 
 ---
 
